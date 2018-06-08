@@ -1,0 +1,88 @@
+navbar {
+	margin-bottom: 0;
+}
+
+body {
+	background: #3E4649;
+	color: #f7f7f7;
+	font-family: 'Montserrat', sans-serif;
+}
+h1{
+	font-weight: bold;
+	font-size: 16px;
+}
+h2 {
+	font-weight: bold;
+	font-size: 16px;
+}
+p {
+	font-size: 16px;
+	color: #cdcdcd;
+}
+.jumbotron {
+	background: #27A967;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+}
+.jumbotron p {
+	color: white;
+	font-size: 16px;
+}
+.jumbotron h1 {
+	color: white;
+	font-size: 32px;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: white;
+	margin-bottom: 5px;
+}
+.btn-primary:hover {
+	color: #27A967;
+	background-color: white;
+	border-color: white;
+}
+.navbar-inverse {
+	background: #2E2F31;
+	border: 0;
+}
+.navbar-inverse .navbar-nav li a {
+	color: #f7f7f7;
+	font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+	background: #27A967;
+}
+.dropdown-menu {
+	background: #2E2F31;
+	border-radius: 0;
+	border: 0;
+}
+.dropdown-menu li a {
+	padding: 10px;
+}
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	background: #2C463C;
+}
+.call-to-action {
+	text-align: center;
+	margin-bottom: 15px;
+}
+.call-to-action p {
+	margin-bottom: 30px;
+	font-family: sans-serif;
+
+}
+.glyphicon-large {
+	font-size: 100px;
+}
+
+.call-to-action h2 {
+	margin-bottom: 15px;
+	padding: 20px;
+	font-family: sans-serif;
+	text-align: left;
+	font-size: 32px;
+}	
